@@ -1,4 +1,4 @@
-body {
+{
   background-color: powderblue;
 }
 h1 {
@@ -11,3 +11,10 @@ p {
 table, th, td {
 border:1px solid black;
 }
+
+
+
+div {
+  background-color: green;
+}
+
